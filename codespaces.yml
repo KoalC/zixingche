@@ -1,0 +1,5 @@
+#Github Codespaces
+codespaces:
+    preview_feature=enable
+    spaceusername=KoalC
+    frontURL=koalc.github.dev
